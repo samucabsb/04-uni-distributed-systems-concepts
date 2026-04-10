@@ -29,7 +29,7 @@ The experiments were performed on local hardware with the following specificatio
 | **Number of Cores** | 6 Physical Cores / 12 Threads (SMT) |
 | **RAM** | 16.0 GB (15.2 GB usable) |
 | **Operating System** | Windows 11 Pro (64-bit) |
-| **Language Used** | Python 3.x |
+| **Language Used** | Python 3.14 |
 | **Parallelization Library** | mpi4py, pandas |
 | **Compiler / Version** | Microsoft MPI (MS-MPI) |
 
