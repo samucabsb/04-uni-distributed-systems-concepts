@@ -94,6 +94,7 @@ Measures the individual utilization of each allocated processor.
 # 7. Execution Time Graph
 
 ![Execution Time Graph](graficos/tempo_execucao.png)
+
 *(Trend: Sharp drop from 1 to 12 processes, except for the anomaly at 2 processes).*
 
 ---
@@ -101,6 +102,7 @@ Measures the individual utilization of each allocated processor.
 # 8. Speedup Graph
 
 ![Speedup Graph](graficos/speedup.png)
+
 *(Trend: Growth below the ideal 45-degree line).*
 
 ---
@@ -108,6 +110,7 @@ Measures the individual utilization of each allocated processor.
 # 9. Efficiency Graph
 
 ![Efficiency Graph](graficos/eficiencia.png)
+
 *(Trend: Downward curve as the number of processes increases).*
 
 ---
